@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "Id-Paciente": "20",
+            "Nombre-Paciente": "A",
+            "Id-Cita": "205",
+            "Fecha-Cita": "2023-07-18",
+            "Hora-Cita": "12:37:01",
+            "Motivo-Consulta": "a"
+        }
+    ]
+}
